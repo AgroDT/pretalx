@@ -442,6 +442,12 @@ LANGUAGES_INFORMATION = {
         "percentage": 83,
         "public_code": "pt",
     },
+    "ru": {
+        "name": _("Russian"),
+        "natural_name": "Русский",
+        "official": False,
+        "percentage": 100,
+    },
     "vi": {
         "name": _("Vietnamese"),
         "natural_name": "người Việt",
