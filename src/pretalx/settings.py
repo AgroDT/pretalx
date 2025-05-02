@@ -449,6 +449,12 @@ LANGUAGES_INFORMATION = {
         "official": False,
         "public_code": "pt",
     },
+    "ru": {
+        "name": _("Russian"),
+        "natural_name": "Русский",
+        "official": False,
+        "public_code": "ru",
+    },
     "vi": {
         "name": _("Vietnamese"),
         "natural_name": "người Việt",
